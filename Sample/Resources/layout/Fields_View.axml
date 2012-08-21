@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sample.MyBindableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res/Sample.Sample"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/borders"
+    local:MvxBind="{&apos;ItemsSource&apos;:{&apos;Path&apos;:&apos;FieldRows&apos;}}"
+    local:MvxItemTemplate="@layout/field_row_view" />

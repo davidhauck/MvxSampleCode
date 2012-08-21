@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sample.MyBindableListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res/Sample.Sample"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    local:MvxBind="{&apos;ItemsSource&apos;:{&apos;Path&apos;:&apos;Data&apos;},&apos;ItemClick&apos;:{&apos;Path&apos;:&apos;ItemClick&apos;}}"
+    local:MvxItemTemplate="@layout/fields_view" />

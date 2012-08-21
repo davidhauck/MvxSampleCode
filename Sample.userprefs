@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample\Actiivty.cs">
+    <Files>
+      <File FileName="Sample\Setup.cs" Line="29" Column="16" />
+      <File FileName="Core\App.cs" Line="24" Column="15" />
+      <File FileName="Core\StartAppObject.cs" Line="24" Column="37" />
+      <File FileName="Core\ViewModels\MainViewModel.cs" Line="14" Column="1" />
+      <File FileName="Sample\Actiivty.cs" Line="30" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\dhauck\Documents\Projects\Sample\Core\App.cs" line="24" />
+      <Breakpoint file="C:\Users\dhauck\Documents\Projects\Sample\Sample\Setup.cs" line="29" />
+      <Breakpoint file="C:\Users\dhauck\Documents\Projects\Sample\Sample\Actiivty.cs" line="19" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample AndroidDeviceId-Debug="014E74F80801701A" />
+</Properties>

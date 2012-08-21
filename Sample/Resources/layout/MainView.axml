@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sample.Pager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res/Sample.Sample"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <Mvx.MvxBindableLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        local:MvxBind="{&apos;ItemsSource&apos;:{&apos;Path&apos;:&apos;DataGroups&apos;}}"
+        local:MvxItemTemplate="@layout/data_group_view" />
+</Sample.Pager>
